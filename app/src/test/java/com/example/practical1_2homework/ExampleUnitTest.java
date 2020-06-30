@@ -1,4 +1,4 @@
-package com.example.practical2a;
+package com.example.practical1_2homework;
 
 import org.junit.Test;
 
